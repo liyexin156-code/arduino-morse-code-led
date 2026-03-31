@@ -24,3 +24,6 @@ This project converts user input text into Morse code using an LED on Arduino.
 - Arrays (character to Morse mapping)
 - Serial communication
 - Timing control
+
+  
+[IMG_1090 2.HEIC.zip](https://github.com/user-attachments/files/26388502/IMG_1090.2.HEIC.zip)
